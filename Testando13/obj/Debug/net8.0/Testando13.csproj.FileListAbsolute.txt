@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\Testando13\Testando13\bin\Debug\net8.0\Testando13.exe
+C:\Users\vinic\source\repos\Testando13\Testando13\bin\Debug\net8.0\Testando13.deps.json
+C:\Users\vinic\source\repos\Testando13\Testando13\bin\Debug\net8.0\Testando13.runtimeconfig.json
+C:\Users\vinic\source\repos\Testando13\Testando13\bin\Debug\net8.0\Testando13.dll
+C:\Users\vinic\source\repos\Testando13\Testando13\bin\Debug\net8.0\Testando13.pdb
+C:\Users\vinic\source\repos\Testando13\Testando13\obj\Debug\net8.0\Testando13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\Testando13\Testando13\obj\Debug\net8.0\Testando13.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\Testando13\Testando13\obj\Debug\net8.0\Testando13.AssemblyInfo.cs
+C:\Users\vinic\source\repos\Testando13\Testando13\obj\Debug\net8.0\Testando13.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\Testando13\Testando13\obj\Debug\net8.0\Testando13.dll
+C:\Users\vinic\source\repos\Testando13\Testando13\obj\Debug\net8.0\refint\Testando13.dll
+C:\Users\vinic\source\repos\Testando13\Testando13\obj\Debug\net8.0\Testando13.pdb
+C:\Users\vinic\source\repos\Testando13\Testando13\obj\Debug\net8.0\Testando13.genruntimeconfig.cache
+C:\Users\vinic\source\repos\Testando13\Testando13\obj\Debug\net8.0\ref\Testando13.dll
